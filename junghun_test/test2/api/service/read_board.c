@@ -177,5 +177,7 @@ void read_board_with_target_id()
     };
     
     get_user_keyboard_input_with_message(read_board_output_message, read_board_keyboard_input);
-    read_file_to_format(atoi(read_board_keyboard_input));
+   
+        read_file_to_format(atoi(read_board_keyboard_input));
+    
 }

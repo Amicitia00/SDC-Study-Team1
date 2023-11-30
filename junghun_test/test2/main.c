@@ -31,6 +31,8 @@ int main (void)
     // choose_menu(board_menu);
     // board_menu[atoi(keyboard_input)]();
     
+
+    
     read_board_with_target_id();
     
     return 0;

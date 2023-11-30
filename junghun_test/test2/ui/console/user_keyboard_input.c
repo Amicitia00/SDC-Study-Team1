@@ -27,6 +27,7 @@ void get_user_keyboard_input_with_message(char *output_message, char *keyboard_i
     get_user_keyboard_input(keyboard_input);
 }
 
+
 // 메시지 출력 이후 사용자 입력 숨겨서 받기
 // void get_user_keyboard_hidden_input_with_message(
 //     char *output_message, char *keyboard_hidden_input)
